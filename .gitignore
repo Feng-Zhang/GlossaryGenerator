@@ -3,10 +3,10 @@
 ~*.tmp
 
 # huge files
-output-results/*
-temp-data/*
-!/output-results/.keep
-!/temp-data/.keep
+input-book/*
+output-txt/*
+!/input-book/.keep
+!/output-txt/.keep
 
 # R related files -------------------------
 # History files
